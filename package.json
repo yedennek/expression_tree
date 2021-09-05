@@ -1,0 +1,7 @@
+{
+  "name": "expression_tree",
+  "version": "1.0.0",
+  "main": "lib/tree.js",
+  "author": "Anna Whittingham",
+  "license": "MIT"
+}
